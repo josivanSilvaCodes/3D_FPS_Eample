@@ -1,0 +1,11 @@
+Download the Model named:
+  Douglas.fbx 
+and the animations named:
+  Douglas@Rifle Aiming Idle.fbx
+  Douglas@Firing Rifle.fbx
+  Douglas@Reloading.fbx
+  
+At https://www.mixamo.com/
+
+So create an Animator Controller and put it on Douglas' Animator
+Create the transitions in Animator Controller with Bool parameters and link the code PlayerAnim.cs to Douglas' Model
