@@ -1,4 +1,4 @@
-# 3D_FPS_Eample -> Example Made by Prof. Josivan Pereira da Silva
+# 3D_FPS_Example -> Example Made by Prof. Josivan Pereira da Silva
 C# Codes for Unity FPS example
 
 Watch the video to learn how to create the 3DFPS game example:
