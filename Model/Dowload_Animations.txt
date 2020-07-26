@@ -9,3 +9,5 @@ At https://www.mixamo.com/
 
 So create an Animator Controller and put it on Douglas' Animator
 Create the transitions in Animator Controller with Bool parameters and link the code PlayerAnim.cs to Douglas' Model
+Link the Ak-47's model to Douglas' model
+Link the code PlayerShot.cs to Douglas' Model.
