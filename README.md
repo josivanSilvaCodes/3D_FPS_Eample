@@ -1,7 +1,9 @@
 # 3D_FPS_Example -> Example Made by Prof. Josivan Pereira da Silva
 C# Codes for Unity FPS example
 
-Watch the video to learn how to create the 3DFPS game example:
+Watch the videos to learn how to create the 3DFPS game example:
+<https://www.youtube.com/watch?v=7sjVrxZUXX0&ab_channel=JosivanPSilva>   (part 1)
+<https://www.youtube.com/watch?v=UeG5cY4_dpU&ab_channel=JosivanPSilva>   (part 2)
 
 Download the Assets Packages at Asset Store: 3D Free Modular Kit, Standard Assets and Modern Weapons.
 
